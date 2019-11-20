@@ -6,7 +6,7 @@ public class ATM {
 	
 	public void calis(Hesap hesap) {
 		
-		Login login = new Login();
+		Login login = new Login(); //nesne oluþturduk
 		
 		Scanner scanner = new Scanner(System.in);
 		
